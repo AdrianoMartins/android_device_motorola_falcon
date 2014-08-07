@@ -1,7 +1,7 @@
 [
 
   {
-    "remote": "github",
+    "remote": "gh",
     "revision": "cm-11.0",
     "repository": "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola"
